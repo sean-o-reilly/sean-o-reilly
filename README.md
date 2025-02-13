@@ -1,9 +1,13 @@
 ## Hi! I'm Sean 🌊
 
 **I’m currently learning:** 
-  - C++ and Python for algorithmic trading 📈
+  - C++ and Python for Algorithmic Trading 📈
   - Web Development with Javascript and React 👨‍💻
+  - Data Structures ✔
 
+**My current goals are:**
+  - Building my tech stack for full-stack development ⚙
+  - Getting my GPA from 3.87 up to 3.9+ 📚
 <!--
 **sean-o-reilly/sean-o-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
