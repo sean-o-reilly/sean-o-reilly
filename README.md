@@ -1,4 +1,8 @@
-## Hi! I'm Sean
+## Hi! I'm Sean 🌊
+
+**I’m currently learning:** 
+  - C++ and Python for algorithmic trading 📈
+  - Web Development with Javascript and React 👨‍💻
 
 <!--
 **sean-o-reilly/sean-o-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
