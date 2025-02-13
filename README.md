@@ -7,7 +7,7 @@
 
 **My current goals are:**
   - Building my tech stack for full-stack development ⚙
-  - Getting my GPA from 3.87 up to 3.9+ 📚
+  - Getting my GPA from up from 3.87 to 3.9+ 📚
 <!--
 **sean-o-reilly/sean-o-reilly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
