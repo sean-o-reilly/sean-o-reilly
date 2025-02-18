@@ -3,7 +3,7 @@
 **I’m currently learning:** 
   - C++ and Python for Algorithmic Trading 📈
   - Web Development with Javascript and React 👨‍💻
-  - Data Structures ✔
+  - Data Structures in C++ 💻
 
 **My current goals are:**
   - Building my tech stack for full-stack development ⚙
