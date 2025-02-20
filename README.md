@@ -8,4 +8,5 @@
 **My current goals are:**
   - Building my tech stack for full-stack development ⚙
   - Getting my GPA from up from 3.87 to 3.9+ 📚
+  - Learning more about high-performance computing 🖥
 
