@@ -1,7 +1,7 @@
 ## Hi! I'm Sean 🌊
 
 **I’m currently learning:** 
-  - C++ and Python for Algorithmic Trading 📈
+  - C++ and Python for Systems Programming ⚡
   - Web Development with Javascript and React 👨‍💻
   - Data Structures in C++ 💻
 
