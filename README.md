@@ -6,7 +6,7 @@
   - Data Structures and STL in C++ 💻
 
 **My current goals are:**
-  - Reading up on Concurrency, OS, and Systems 🧪
+  - Reading up on Concurrency, and Systems 🧪
   - Getting my GPA up from 3.87 to 3.9+ 📚
   - Learning CUDA for GPU Programming and Deep Learning ⏩
 
