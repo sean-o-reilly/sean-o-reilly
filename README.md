@@ -5,7 +5,7 @@
   - Python/PyTorch for Machine Learning 🧠
   - Data Structures and STL in C++ 💻
 
-**My current goals are:**
-  - Reading up on Concurrency and Systems 🧪
-  - Learning CUDA for GPU Programming and Deep Learning ⏩
-
+**I'm currently (or planning on) reading:**
+- Computer Systems: A Programmer's Perspective
+- Operating Systems: Three Easy Pieces
+- C++ Concurrency in Action
