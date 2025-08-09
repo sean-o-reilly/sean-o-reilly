@@ -4,6 +4,7 @@
   - C/C++ for Systems Programming ⚡
   - Python/PyTorch for Machine Learning 🧠
   - Data Structures and STL in C++ 💻
+  - Unreal Engine in C++
 
 **I'm currently (or planning on) reading:**
 - Computer Systems: A Programmer's Perspective
