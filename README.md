@@ -2,11 +2,10 @@
 
 **I’m currently learning:** 
   - C/C++ for Systems Programming ⚡
-  - Python/PyTorch for Machine Learning 🧠
   - Data Structures and STL in C++ 💻
   - Unreal Engine in C++
+  - Python for Data Engineering & Machine Learning 🧠
 
-**I'm currently (or planning on) reading:**
+**I'm currently reading:**
 - Computer Systems: A Programmer's Perspective
-- Operating Systems: Three Easy Pieces
-- C++ Concurrency in Action
+- Effective Modern C++
