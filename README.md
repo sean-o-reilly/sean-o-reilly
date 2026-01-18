@@ -8,4 +8,4 @@
 - Computer Architecture
 - Networking
 
-**99 percent** of my work isn't on GitHub, but the 1 percent that is, is in this [physics engine](https://github.com/sean-o-reilly/2d-physics-engine) repo I've been building up lately.
+#### Check out some of my projects below!
